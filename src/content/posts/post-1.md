@@ -6,7 +6,9 @@ image: ./cover.jpg
 tags: [初见！]
 category: Front-end
 draft: false
+lang: zh-cn      # Set only if the post's language differs from the site's language in `config.ts`
 ---
+
 # 我的第一篇博客文章
 
  发表于：2025-08-26
