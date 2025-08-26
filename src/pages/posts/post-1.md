@@ -3,7 +3,7 @@ title: 初次见面！
 published: 2025-08-26
 description: 初见！
 image: ./cover.jpg
-tags: [笔记本, 指南]
+tags: [初见！]
 category: Front-end
 draft: false
 ---
