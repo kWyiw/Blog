@@ -1,9 +1,14 @@
 ---
-title: My First Blog Post
-published: 2023-09-09
-description: This is the first post of my new Astro blog.
+title: 初次见面！
+published: 2025-08-26
+description: 初见！
 image: ./cover.jpg
-tags: [Foo, Bar]
+tags: [笔记本, 指南]
 category: Front-end
 draft: false
 ---
+# 我的第一篇博客文章
+
+ 发表于：2025-08-26
+
+ 欢迎来到我的博客！在这里，我将分享各种我所感兴趣的内容。
